@@ -1,14 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ░█▄█░█▀█░█░█░▀█▀░█▀█░█▀▄                                      ║
-║   ░█░█░█▀█░█▀█░░█░░█▀█░█▀▄                                      ║
-║   ░▀░▀░▀░▀░▀░▀░░▀░░▀░▀░▀▀░                                      ║
-║                                    ~/codewithmahtab  [main] ✓    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=MAHTAB&fontSize=90&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=codewithmahtab%20%7C%20Software%20Developer%20%26%20Freelancer&descSize=18&descAlignY=68&descColor=c9d1d9" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Software+Developer+%F0%9F%9A%80;Freelancer+%7C+Builder+%7C+Problem+Solver;Backend+Architect+%7C+API+Craftsman;Turning+ideas+into+scalable+reality+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -27,13 +19,13 @@
 ### `> whoami`
 
 ```yaml
-name        : Mahtab
-alias       : codewithmahtab
-role        : Software Developer & Freelancer
-focus       : Backend Systems · Scalable APIs · Cloud
-location    : 📍 India
-available   : ✅ Open for freelance & collabs
-pronouns    : he/him
+name: Mahtab
+alias: codewithmahtab
+role: Software Developer & Freelancer
+focus: Backend Systems · Scalable APIs · Cloud
+location: 📍 India
+available: ✅ Open for freelance & collabs
+pronouns: he/him
 ```
 
 ### `> cat mission.txt`
@@ -150,10 +142,10 @@ drwxr-xr-x  📖  Deep dive into distributed systems & microservices
 
 ```json
 {
-  "github"   : "https://github.com/codewithmahtab",
-  "linkedin" : "https://linkedin.com/in/mohdmahtab07",
-  "twitter"  : "https://x.com/codewithmahtab",
-  "status"   : "always building something 🔨"
+  "github": "https://github.com/codewithmahtab",
+  "linkedin": "https://linkedin.com/in/mohdmahtab07",
+  "twitter": "https://x.com/codewithmahtab",
+  "status": "always building something 🔨"
 }
 ```
 
