@@ -1,25 +1,3 @@
-<div align="center">
-
-# 〔 M · A · H · T · A · B 〕
-
-### `~/codewithmahtab` · `[main ✓]` · `Software Developer & Freelancer`
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer+%F0%9F%9A%80;Backend+Architect+%7C+API+Craftsman;Building+scalable+platforms+that+last+%E2%9C%A8;Freelancer+%7C+Builder+%7C+Problem+Solver)](https://git.io/typing-svg)
-
-<br/>
-
-[![followers](https://img.shields.io/github/followers/codewithmahtab?style=flat-square&color=00d9ff&labelColor=0d1117&label=GitHub+Followers&logo=github)](https://github.com/codewithmahtab)
-&nbsp;
-[![stars](https://img.shields.io/github/stars/codewithmahtab?style=flat-square&color=00d9ff&labelColor=0d1117&label=Total+Stars&logo=github)](https://github.com/codewithmahtab)
-&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-00d9ff?style=flat-square&labelColor=0d1117)](https://linkedin.com/in/mohdmahtab07)
-
-</div>
-
----
-
 ### `> whoami`
 
 ```yaml
